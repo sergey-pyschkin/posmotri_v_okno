@@ -1,0 +1,7 @@
+.content__details {
+  display: flex;
+  width: 399px;
+  flex-direction: column;
+  justify-content: start;
+  gap: 21px;
+}

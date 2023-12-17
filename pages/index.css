@@ -1,0 +1,36 @@
+@import url("../styles/style.css");
+@import url("../styles/preloader.css");
+@import url("../styles/error.css");
+@import url("../vendor/fonts/fonts.css");
+@import url("../styles/visually-hidden/visually-hidden.css");
+
+@import url("../styles/title/title.css");
+
+@import url("../styles/content/content.css");
+@import url("../styles/content/__details/content__details.css");
+@import url("../styles/content/__list/content__list.css");
+@import url("../styles/content/__video-card/content__video-card.css");
+@import url("../styles/content/__video-card-description-container/content__video-card-description-container.css");
+@import url("../styles/content/__video-card-title/content__video-card-title.css");
+@import url("../styles/content/__video-card-description/content__video-card-description.css");
+@import url("../styles/content/__video-card-thumbnail/content__video-card-thumbnail.css");
+@import url("../styles/content/__card-link/content__card-link.css");
+@import url("../styles/content/__accent/content__accent.css");
+
+@import url("../styles/button/button.css");
+@import url("../styles/more-button/more-button.css");
+
+@import url("../styles/cards-list-item-template/cards-list-item-template.css");
+
+@import url("../styles/result/result.css");
+@import url("../styles/result/__video/result__video.css");
+@import url("../styles/result/__video-container/result__video-container.css");
+
+@import url("../styles/search-form/search-form.css");
+@import url("../styles/search-form/__fieldset/search-form__fieldset.css");
+@import url("../styles/search-form/__fieldset-title/search-form__fieldset-title.css");
+@import url("../styles/search-form/__label/search-form__label.css");
+@import url("../styles/search-form/__textfield/search-form__textfield.css");
+@import url("../styles/search-form/__checkbox-list/search-form__checkbox-list.css");
+@import url("../styles/search-form/__pseudo-checkbox/search-form__pseudo-checkbox.css");
+@import url("../styles/search-form/__submit-button/search-form__submit-button.css");

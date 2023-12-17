@@ -1,0 +1,8 @@
+.content__video-card-description {
+  font-weight: 400;
+  line-height: 90%;
+}
+
+.content__card-link:hover .content__video-card-description {
+  text-decoration: underline;
+}

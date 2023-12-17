@@ -1,0 +1,7 @@
+.content__video-card-description-container {
+  padding: 4px 0;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}

@@ -1,0 +1,9 @@
+.content__video-card-thumbnail {
+  width: 194px;
+  height: 103px;
+  margin-left: auto;
+  -o-object-position: 50% 50%;
+  object-position: 50% 50%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}

@@ -1,0 +1,11 @@
+.content__video-card-title {
+  font-family: "Oswald", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 100%;
+  text-transform: uppercase;
+}
+
+.content__card-link:hover .content__video-card-title {
+  text-decoration: underline;
+}
