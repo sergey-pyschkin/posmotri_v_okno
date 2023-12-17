@@ -46,7 +46,7 @@ __Блок main__ - Основное содержимое страницы, ко
 [Посмотри в окно](https://github.com/sergey-pyschkin/posmotri_v_okno)
 
 ### 6. Ссылка на репозиторий  GitHub
-[Посмотри в окно](https://github.com/sergey-pyschkin?tab=repositories)
+[Все репозитории](https://github.com/sergey-pyschkin?tab=repositories)
 
 # posmotri_v_okno
 
