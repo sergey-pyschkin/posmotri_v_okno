@@ -39,4 +39,14 @@ __Блок main__ - Основное содержимое страницы, ко
 ### 3. Планы по доработке
 1. Реализовать адаптивное масштабирование в диапазоне от 320px
 
+### 4. Ссылка на GitHub
+[Посмотри в окно](https://sergey-pyschkin.github.io/posmotri_v_okno/)
+
+### 5. Ссылка на репозиторий проекта GitHub
+[Посмотри в окно](https://github.com/sergey-pyschkin/posmotri_v_okno)
+
+### 6. Ссылка на репозиторий  GitHub
+[Все репозитории](https://github.com/sergey-pyschkin?tab=repositories)
+
+# posmotri_v_okno
 
