@@ -43,7 +43,7 @@ __Блок main__ - Основное содержимое страницы, ко
 [Посмотри в окно](https://sergey-pyschkin.github.io/posmotri_v_okno/)
 
 ### 5. Ссылка на репозиторий проекта GitHub
-[Посмотри в окно](https://github.com/sergey-pyschkin/posmotri_v_okno)
+[Посмотри в окно](https://github.com/sergey-pyschkin/ono-tebe-nado.git)
 
 ### 6. Ссылка на репозиторий  GitHub
 [Все репозитории](https://github.com/sergey-pyschkin?tab=repositories)
