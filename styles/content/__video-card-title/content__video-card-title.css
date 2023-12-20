@@ -4,8 +4,7 @@
   font-weight: 700;
   line-height: 100%;
   text-transform: uppercase;
-}
-
-.content__card-link:hover .content__video-card-title {
-  text-decoration: underline;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }

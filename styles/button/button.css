@@ -1,13 +1,13 @@
 .button {
   color: #FFF;
   text-align: center;
-  font-family: Fira Sans Condensed;
+  font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
   background: none;
-  border: 1px solid #FFF;
+  border: 1px solid currentColor;
   cursor: pointer;
   padding: 6px 0;
 }

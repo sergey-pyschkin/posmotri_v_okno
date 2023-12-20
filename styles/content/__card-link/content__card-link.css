@@ -20,3 +20,7 @@
 .content__card-link_current {
   background: #545050;
 }
+
+.content__card-link:hover {
+  text-decoration: underline;
+}
